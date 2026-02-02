@@ -1,0 +1,14 @@
+[INFO][2026-02-02 14:20:00,510]Браузер chromium запустился
+Список ссылок:, 1
+Список ссылок:, 2
+Список ссылок:, 3
+Список ссылок:, 4
+Список ссылок:, 5
+Список ссылок:, 6
+Подходит: /course/profession-python/
+Подходит: /course/profession-cybersecurity/
+Подходит: /course/profession-devops/
+Подходит: /course/profession-information-security/
+Подходит: /course/profession-etichnyj-haker/
+Подходит: /course/sysadmin/
+[INFO][2026-02-02 14:20:14,640]Браузер chromium закрылся

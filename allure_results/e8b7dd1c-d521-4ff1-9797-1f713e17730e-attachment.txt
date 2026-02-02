@@ -1,0 +1,1 @@
+INFO     root:browser.py:31 Браузер chromium закрылся

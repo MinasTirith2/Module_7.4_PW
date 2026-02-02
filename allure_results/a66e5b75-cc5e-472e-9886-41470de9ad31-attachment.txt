@@ -1,0 +1,4 @@
+[INFO][2026-02-02 11:55:35,196]Браузер chromium запустился
+DEBUG: Найдено элементов: 25
+Найдено: <Locator frame=<Frame name= url='https://github.com/microsoft/vscode/issues?q=in%3Atitle%20bug'> selector="a[data-testid='issue-pr-title-link']">
+[INFO][2026-02-02 11:55:42,474]Браузер chromium закрылся
